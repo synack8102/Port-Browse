@@ -8,7 +8,7 @@ grab the files with 'git clone https://github.com/app-br3aker/port-browser'
 
 cd into port_browser folder
 
-make install.sh executable 'chmod +x install.sh
+make install.sh executable 'chmod +x install.sh'
 
 run the install script './install.sh'
 
