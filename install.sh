@@ -1,7 +1,6 @@
 #!/bin/bash
 
 mkdir /opt/port_browser
-mv port_browser.py /opt/port_browser/
 mv run_browse.sh /opt/port_browser
 ln -s /opt/port_browser/run_browse.sh /usr/bin/run_browse
 #current_user=`whoami`
