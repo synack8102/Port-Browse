@@ -46,4 +46,6 @@ read protocol
 callEyeWitness $protocol
 echo "Name your ouput directory"
 read output
-python /opt/port_browser/EyeWitness/EyeWitness.py -f /opt/port_browser/ports1.txt -d $output --headless
+python /opt/port_browser/EyeWitness/EyeWitness.py -f /opt/port_browser/ports.txt -d $output --headless
+rm nmap_ports.txt
+rm ports.txt
