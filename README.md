@@ -4,7 +4,7 @@ Description: Browses to open ports from an nmap file over http or https and take
 
 How-to-use:
 
-grab the files with 'git clone https://github.com/app-br3aker/port-browser'
+grab the files with 'git clone https://github.com/synack8102/Port-Browse
 
 cd into port_browser folder
 
