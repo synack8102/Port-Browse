@@ -1,5 +1,5 @@
 # port-browser
-Description: script browse to open nmap ports using http or https via firefox
+Description: Browses to open ports from an nmap file over http or https and takes screenshots via EyeWitness.
 
 
 How-to-use:
