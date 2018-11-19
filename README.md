@@ -16,4 +16,4 @@ execute the script by typing 'run_browse'
 
 follow the prompt
 
-  -options enclosed in () are the default selections
+  -options enclosed in [ ] are the default selections
